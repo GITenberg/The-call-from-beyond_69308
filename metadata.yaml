@@ -1,0 +1,29 @@
+_repo: The-call-from-beyond_69308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simak, Clifford D.
+    alias: Simak, Clifford Donald
+    birthdate: 1904
+    deathdate: 1988
+    gutenberg_agent_id: '25185'
+    url: http://www.gutenberg.org/2009/agents/25185
+    wikipedia: http://en.wikipedia.org/wiki/Clifford_D._Simak
+description: ''
+gutenberg_issued: '2022-11-07'
+identifiers:
+  gutenberg: '69308'
+language: en
+pgterms:marc905: 20220528075131simak
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Popular Publications, Inc.,1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The call from beyond
+url: http://www.gutenberg.org/ebooks/69308
