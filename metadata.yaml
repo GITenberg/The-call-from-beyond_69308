@@ -1,5 +1,8 @@
 _repo: The-call-from-beyond_69308
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69308-h/images/cover.jpg
 creator:
   author:
     agent_name: Simak, Clifford D.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25185
     wikipedia: http://en.wikipedia.org/wiki/Clifford_D._Simak
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69308#The-call-from-beyond
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69308'
